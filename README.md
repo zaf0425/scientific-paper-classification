@@ -107,10 +107,10 @@ Run the parts in order (01 → 05); later parts reload the files produced by par
 
 ## Authors
 
-- Tasnim Rahmatullah, Dept. of CSE, Brac University
 - Zafra Musarrat Islam, Dept. of CS, Brac University
-- Md Zubayer Hasan, Dept. of CSE, Brac University
 - Karib Fiyaz, Dept. of CS, Brac University
+- Tasnim Rahmatullah, Dept. of CSE, Brac University
+- Md Zubayer Hasan, Dept. of CSE, Brac University
 
 ## License
 
