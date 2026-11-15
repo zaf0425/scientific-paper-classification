@@ -112,6 +112,3 @@ Run the parts in order (01 → 05); later parts reload the files produced by par
 - Tasnim Rahmatullah, Dept. of CSE, Brac University
 - Md Zubayer Hasan, Dept. of CSE, Brac University
 
-## License
-
-Add a license of your choice (e.g. MIT) before publishing.
